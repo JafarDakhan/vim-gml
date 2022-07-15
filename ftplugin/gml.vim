@@ -8,8 +8,7 @@ if exists('b:did_ftplugin')
 endif
 
 setlocal syntax=gml
-setlocal foldmethod=syntax
-setlocal foldlevel=30
+setlocal foldmethod=marker
 setlocal completefunc=syntaxcomplete#Complete
 setlocal fileformat=dos
 
