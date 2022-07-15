@@ -2,7 +2,6 @@
 # vim-GML
 
 
-
 ![theme_gruvbox-dark-medium2](https://user-images.githubusercontent.com/88181694/179274834-5dc5721f-03e9-49d6-981a-4b9594278f3a.png)
 
 
@@ -31,7 +30,7 @@ If this is your first time using an external text editor with Gamemaker, open Ga
 ![scrn2](https://user-images.githubusercontent.com/88181694/179275636-51b91742-ed9d-47df-80b3-e6a2232d7864.gif)
 
 
-## Future works
+## 📃Future works
 
 - Better indentation
 - Auto completion
