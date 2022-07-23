@@ -5,6 +5,12 @@
 ![theme_gruvbox-dark-medium2](https://user-images.githubusercontent.com/88181694/179274834-5dc5721f-03e9-49d6-981a-4b9594278f3a.png)
 theme: gruvbox-dark-medium
 
+## Features
+- Full syntax highlight
+- JSDoc comments 
+- Regions
+- Simple indentation
+
 ## Installation
 
 with [vim-plug](https://github.com/junegunn/vim-plug):
