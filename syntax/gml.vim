@@ -720,7 +720,17 @@ syntax keyword _otherFunc distance_to_point distance_to_object
   \ vertex_color vertex_argb vertex_texcoord vertex_normal vertex_float1 vertex_float2 vertex_float3 vertex_float4 vertex_ubyte4 vertex_submit
   \ vertex_freeze vertex_get_number vertex_get_buffer_size vertex_create_buffer_from_buffer vertex_create_buffer_from_buffer_ext
   \ push_local_notification push_get_first_local_notification push_get_next_local_notification push_cancel_local_notification
-
+  \ buffer_exists buffer_create buffer_create_from_vertex_buffer buffer_create_from_vertex_buffer_ext buffer_delete
+  \ buffer_read buffer_fill buffer_write buffer_seek buffer_tell buffer_peek buffer_poke buffer_save buffer_save_ext buffer_save_async
+  \ buffer_load buffer_load_ext buffer_load_async buffer_load_partial
+  \ buffer_compress buffer_decompress
+  \ buffer_async_group_begin buffer_async_group_option buffer_async_group_end
+  \ buffer_copy buffer_copy_from_vertex_buffer
+  \ buffer_get_type buffer_get_alignment buffer_get_address buffer_get_size buffer_get_surface buffer_set_surface
+  \ buffer_resize buffer_sizeof
+  \ buffer_md5 buffer_sha1 buffer_crc32
+  \ buffer_base64_encode buffer_base64_decode buffer_base64_decode_ext
+  \ buffer_set_used_size
 
 """
 """ constants
